@@ -15,14 +15,28 @@ This Telegram bot automatically detects and lists all PDF books from the `books/
 
 ## 📁 Folder Structure
 ```
-telegram-book-bot-english/
+mega-book-bot/
 ├── bot.py
 ├── requirements.txt
-├── README.md
 └── books/
-    └── English/
-        ├── English_Story1.pdf
-        ├── English_Learn_Grammar.pdf
-        └── Spoken_English.pdf
+    ├── stories/
+    │   ├── Lion_and_Mouse.pdf
+    │   ├── Greedy_Dog.pdf
+    │   └── Tortoise_and_Hare.pdf
+    │
+    ├── psychology/
+    │   ├── Human_Behavior.pdf
+    │   ├── Power_of_Mind.pdf
+    │   └── Psychological_Tricks.pdf
+    │
+    ├── historic/
+    │   ├── World_War_History.pdf
+    │   ├── Islamic_History.pdf
+    │   └── Mughal_Empire.pdf
+    │
+    └── all_subjects/
+        ├── Biology_Notes.pdf
+        ├── Math_Tricks.pdf
+        └── Chemistry_Complete.pdf
 ```
 https://t.me/BookFinderTris_bot
