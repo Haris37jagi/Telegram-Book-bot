@@ -12,4 +12,8 @@ This is a Telegram bot that shares English PDF books with categories.
 - Platform: Render.com
 - Build command: pip install -r requirements.txt
 - Start command: python bot.py
-- Environment Variable: BOT_TOKEN (from @BotFather)
+- Environment Variable: BOT_TOKEN
+7563802671:AAGTr2UMVF05eoQhMj7PtCI_g6orIP-nNkU
+
+
+  
