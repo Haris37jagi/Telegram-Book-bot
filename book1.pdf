@@ -1,12 +1,12 @@
 telegram-book-bot/
-├── bot.py                ✅ Bot ka main file
+├── bot.py
 ├── requirements.txt
 ├── README.md
-└── books/                ✅ Yahan books upload karo
-    ├── book1.pdf         ✅ Yeh /book1 command se send hoti hai
-    ├── book2.pdf         ✅ Yeh /book2 command se send hoti hai
-    └── ...more books
-Available Books:
-📘 /book1
-📗 /book2
-📙 /book3
+└── books/
+    ├── English/
+    │   ├── English_Story1.pdf
+    │   ├── English_Learn_Grammar.pdf
+    │   └── Spoken_English.pdf
+    ├── Novels/
+    ├── Islamic/
+    └── Python/
