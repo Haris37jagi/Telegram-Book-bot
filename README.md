@@ -1,3 +1,23 @@
+## 📚 Available Book Categories (Search Guide)
+
+You can simply **type any keyword** from the book title or category to get matching books.
+
+Here are some examples you can try:
+
+| 🔍 Type This         | 📘 You'll Get Books Like                |
+|----------------------|-----------------------------------------|
+| `all`                | All subjects: Math, Bio, Physics, etc. |
+| `english grammar`    | Basic to advanced grammar PDFs          |
+| `stories`            | Moral stories, children's books         |
+| `psychology`         | Mental health, human behavior, NLP      |
+| `historic`           | Islamic history, world wars, Mughal era |
+| `math`               | Short tricks, formulas, MCQs            |
+| `biology`            | Diagrams, notes, exam prep              |
+| `ielts`              | Listening, speaking, writing modules    |
+| `spoken`             | Spoken English, daily phrases           |
+
+### 💬 Example:
+Just send:
 # 📚 BookFinder Bot (Auto Mode)
 
 This Telegram bot automatically detects and lists all PDF books from the `books/` folder.
