@@ -15,13 +15,14 @@ This Telegram bot automatically detects and lists all PDF books from the `books/
 
 ## 📁 Folder Structure
 ```
-telegram-auto-book-bot/
+telegram-book-bot-english/
 ├── bot.py
 ├── requirements.txt
 ├── README.md
 └── books/
-    ├── Python101.pdf
-    ├── IslamicGuide.pdf
-    ├── AI_Basics.pdf
-    └── Urdu_Novel.pdf
+    └── English/
+        ├── English_Story1.pdf
+        ├── English_Learn_Grammar.pdf
+        └── Spoken_English.pdf
 ```
+https://t.me/BookFinderTris_bot
