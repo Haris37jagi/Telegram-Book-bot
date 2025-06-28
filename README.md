@@ -1,31 +1,15 @@
-# 📚 BookFinder Bot (Auto Mode)
+# Telegram Book Bot
 
-This Telegram bot automatically detects and lists all PDF books from the `books/` folder.
+This is a Telegram bot that shares English PDF books with categories.
 
-## 🚀 Features
-- Dynamic menu buttons based on available PDF files
-- No need to hard-code book commands
-- Easy to scale to 1000s of books
-- Built in Python using pyTelegramBotAPI
+## Categories:
+- English Books
+- Urdu Novels
+- Islamic Books
+- Python Books
 
-## 🛠️ Setup on Render
-- Build Command: `  pip install -r requirements.txt 
-- Start Command: `python bot.py`
-- Environment Variable: `BOT_TOKEN`
-
-## 📁 Folder Structure
-```
-telegram-book-bot/
-├── bot.py
-├── requirements.txt
-├── README.md
-└── books/
-    ├── English/
-    │   ├── English_Story1.pdf
-    │   ├── English_Learn_Grammar.pdf
-    │   └── Spoken_English.pdf
-    ├── Novels/
-    ├── Islamic/
-    └── Python/
-```
-https://t.me/Bookfindertris_bot
+## Hosting:
+- Platform: Render.com
+- Build command: pip install -r requirements.txt
+- Start command: python bot.py
+- Environment Variable: BOT_TOKEN (from @BotFather)
