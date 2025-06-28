@@ -9,20 +9,23 @@ This Telegram bot automatically detects and lists all PDF books from the `books/
 - Built in Python using pyTelegramBotAPI
 
 ## 🛠️ Setup on Render
-- Build Command: `pip install -r requirements.txt`
+- Build Command: `  pip install -r requirements.txt 
 - Start Command: `python bot.py`
 - Environment Variable: `BOT_TOKEN`
 
 ## 📁 Folder Structure
 ```
-telegram-auto-book-bot/
+telegram-book-bot/
 ├── bot.py
 ├── requirements.txt
 ├── README.md
 └── books/
-    ├── Python101.pdf
-    ├── IslamicGuide.pdf
-    ├── AI_Basics.pdf
-    └── Urdu_Novel.pdf
+    ├── English/
+    │   ├── English_Story1.pdf
+    │   ├── English_Learn_Grammar.pdf
+    │   └── Spoken_English.pdf
+    ├── Novels/
+    ├── Islamic/
+    └── Python/
 ```
 https://t.me/Bookfindertris_bot
