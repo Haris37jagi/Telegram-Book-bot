@@ -1,12 +1,1 @@
-telegram-book-bot/
-├── bot.py
-├── requirements.txt
-├── README.md
-└── books/
-    ├── English/
-    │   ├── English_Story1.pdf
-    │   ├── English_Learn_Grammar.pdf
-    │   └── Spoken_English.pdf
-    ├── Novels/
-    ├── Islamic/
-    └── Python/
+Dummy content for book1.pdf

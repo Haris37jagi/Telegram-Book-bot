@@ -20,7 +20,9 @@ def send_welcome(message):
 
     bot.send_message(
         message.chat.id,
-        "👋 Welcome to BookFinder Bot (Auto Mode)\n\nChoose a book to download:",
+        "👋 Welcome to Mega Book Bot!
+
+Choose a book to download:",
         reply_markup=markup
     )
 
@@ -34,5 +36,5 @@ def send_selected_book(message):
     else:
         bot.send_message(message.chat.id, "❌ Book not found.")
 
-print("📚 Auto Book Bot is running...")
+print("📚 Mega Book Bot is running...")
 bot.polling()
